@@ -8,5 +8,4 @@ Predictions (dev.txt and test.txt) can be found in `predictions/`
 
 ## Model
 
-The best performing model can be found in `BestModel/model.ipynb`
-
+The best performing model can be found in `BestModel/FINAL_MODEL.ipynb`
